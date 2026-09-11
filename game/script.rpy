@@ -1,8 +1,10 @@
-define m = Character("Monika")
-
 label start:
-    scene black
+    scene clubroom
 
-    m "oh my god makeup powder and u cant believe how much dirty things I had to clean up from players files"
-
-return
+    m "..."
+    n "hey!"
+    m "your actually really early. i havent even finished my homework yet!"
+    n "flex!"
+    m "hey!"
+    "Monika adds up playfully.
+    "Natsuki goes into the closet, and goes to read the newest volume of Parfait Girls, the soft noises of pages rustling fill the atmosphere."
