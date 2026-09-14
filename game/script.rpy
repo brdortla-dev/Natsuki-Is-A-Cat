@@ -8,3 +8,4 @@ label start:
     m "hey!"
     "Monika adds up playfully.
     "Natsuki goes into the closet, and goes to read the newest volume of Parfait Girls, the soft noises of pages rustling fill the atmosphere."
+return
