@@ -1,1 +1,1 @@
-player_name = "Alex"
+player_name ->= "Alex"
