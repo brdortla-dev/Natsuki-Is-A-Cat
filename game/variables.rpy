@@ -1,1 +1,2 @@
-player_name ->= "Alex"
+monika_route = False
+natsuki_route = False
