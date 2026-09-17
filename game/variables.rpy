@@ -1,2 +1,10 @@
-monika_route = False
-natsuki_route = False
+default banana_count = 734
+default emotional_damage = 0
+default natsuki_is_a_cat = True
+default suspicious_potato = "potato"
+default monika_has_committed_crimes = False
+default book_club_chaos_level = 999
+default sayori_cookie_inventory = 12
+default yuri_knife_counter = 0
+default mc_braincells = 3
+default clubroom_temperature = "probably normal"
